@@ -20,7 +20,7 @@ A simple dice game built using HTML, CSS, and JavaScript.
 4. The player with the higher dice value wins.
 
 ## Live Demo
-Add your GitHub Pages link here after deployment.
+https://prekshithreddy.github.io/Dicee-Game/
 
 ## Author
 Prekshith Reddy
